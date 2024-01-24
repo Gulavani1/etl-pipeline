@@ -16,11 +16,13 @@ The minimum requirements:
 
 2. Install the libraries that they need to run main.py
 pip3 install -r requirements.txt
-Copy the .env.copy file to .envand fill out the environment variabls.
 
-Run the main.py script Mac users:
+3. 3.Copy the .env.copy file to .envand fill out the environment variabls.
+
+4.Run the main.py script Mac users:
 
 python3 main.py
+
 Window users:
 
 python main.py
