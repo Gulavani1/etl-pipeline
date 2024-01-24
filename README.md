@@ -14,4 +14,13 @@ The minimum requirements:
 
 1.Clone the repository and go to week19 folder
 
-2. Install the libraries
+2. Install the libraries that they need to run main.py
+pip3 install -r requirements.txt
+Copy the .env.copy file to .envand fill out the environment variabls.
+
+Run the main.py script Mac users:
+
+python3 main.py
+Window users:
+
+python main.py
